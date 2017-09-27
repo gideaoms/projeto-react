@@ -1,0 +1,5 @@
+export const STATE_LOAD_LIST = 'STATE_LOAD_LIST'
+export const STATE_LOAD_ONE = 'STATE_LOAD_ONE'
+export const STATE_LOAD_ALL = 'STATE_LOAD_ALL'
+export const STATE_SUCCESS = 'STATE_SUCCESS'
+export const STATE_ERROR = 'STATE_ERROR'
